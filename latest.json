@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "notes": "Native app window with its own taskbar icon (no more Edge). Plus auto-math, guided tour, in-app Help/FAQ, and a branded installer.",
+  "version": "1.0.4",
+  "notes": "License/trial enforcement now locks correctly at runtime. Native window build.",
   "date": "2026-06-14",
   "url": "https://github.com/josephcodes123/testbuilder-releases/releases/latest/download/TestBuilder-Setup.exe"
 }
