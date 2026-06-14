@@ -1,6 +1,6 @@
-{
-  "version": "1.0.4",
-  "notes": "License/trial enforcement now locks correctly at runtime. Native window build.",
-  "date": "2026-06-14",
-  "url": "https://github.com/josephcodes123/testbuilder-releases/releases/latest/download/TestBuilder-Setup.exe"
+﻿{
+    "version":  "1.0.5",
+    "notes":  "Sample question banks and a ready-made Sample Quiz so you can try assessment creation right away, plus an update banner and a password reminder.",
+    "date":  "2026-06-14",
+    "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
