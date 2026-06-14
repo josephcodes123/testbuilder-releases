@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "notes": "Initial release.",
+  "version": "1.0.1",
+  "notes": "Fixes bank import on fresh installs and makes figure sizes consistent across views.",
   "date": "2026-06-14",
-  "url": "https://github.com/josephcodes123/testbuilder-releases/releases/download/v1.0.0/TestBuilder-Setup.exe"
+  "url": "https://github.com/josephcodes123/testbuilder-releases/releases/latest/download/TestBuilder-Setup.exe"
 }
