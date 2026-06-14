@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "notes": "Numbers & math now render automatically. New guided tour + in-app Setup guide & FAQ. Branded installer. Plus the import fix and consistent figure sizes.",
+  "version": "1.0.3",
+  "notes": "Native app window with its own taskbar icon (no more Edge). Plus auto-math, guided tour, in-app Help/FAQ, and a branded installer.",
   "date": "2026-06-14",
   "url": "https://github.com/josephcodes123/testbuilder-releases/releases/latest/download/TestBuilder-Setup.exe"
 }
