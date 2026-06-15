@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.5",
-    "notes":  "Sample question banks and a ready-made Sample Quiz so you can try assessment creation right away, plus an update banner and a password reminder.",
+    "version":  "1.0.6",
+    "notes":  "v1.0.6 - Live difficulty-mix feasibility check in the draw editor; color-coded + tagged question banks (Yours/Imported/Sample); currency dollar signs render correctly alongside math; answer choices print column-major (A D / B E / C); \u0027Place in stem\u0027 returns the cursor for continued editing; reviewed and flagged are now mutually exclusive; gift-a-license webhook flow; bundled sample banks seed on first run.",
     "date":  "2026-06-14",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
