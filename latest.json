@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.19",
-    "notes":  "Colorful Assessments page (matches Banks) with a dot per course an exam draws from. Every update button now installs in one click. Fixed a blank Sections tab when switching between the Sections and Template tabs.",
+    "version":  "1.0.20",
+    "notes":  "Versions: a quick confirm now appears when you choose Completely different questions, so it is never selected by accident. Independent draws stays the recommended default. Plus build reliability improvements for the desktop app.",
     "date":  "2026-06-15",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
