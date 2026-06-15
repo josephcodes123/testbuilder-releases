@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.6",
-    "notes":  "v1.0.6 - Live difficulty-mix feasibility check in the draw editor; color-coded + tagged question banks (Yours/Imported/Sample); currency dollar signs render correctly alongside math; answer choices print column-major (A D / B E / C); \u0027Place in stem\u0027 returns the cursor for continued editing; reviewed and flagged are now mutually exclusive; gift-a-license webhook flow; bundled sample banks seed on first run.",
+    "version":  "1.0.7",
+    "notes":  "v1.0.7 - Multi-format questions: adds fill-in-the-blank and short-answer question types alongside multiple choice and free response. Free-response parts can now carry their own figures. Question editor has a type switcher and per-type editors (insert-blank, answer lines); New question menu lets you pick a type. AI import, the answer key, printing, and .tbbank sharing all handle every type. Mr. Levy\u0027s Unit 1A bank now includes its free-response dotplot problem.",
     "date":  "2026-06-14",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
