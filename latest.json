@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.14",
-    "notes":  "Blank space (3 lines) is now the default answer area for short-answer and free-response questions. Eight sample banks expanded to 30+ vetted questions each. Cleaner written-response rendering.",
+    "version":  "1.0.15",
+    "notes":  "The installed app now runs on its own port so it stays fully separate from a local dev setup. Internal: dev builds show a green icon/badge.",
     "date":  "2026-06-15",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
