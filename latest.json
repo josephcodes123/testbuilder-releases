@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.12",
-    "notes":  "v1.0.12 - The in-app \u0027Gift to a teacher\u0027 button now opens the dedicated gift checkout (recipient + from/to). Includes all recent work: one-click in-app updates, multi-format questions, PDF + math fixes, and the two-column Settings.",
+    "version":  "1.0.13",
+    "notes":  "v1.0.13 - More reliable one-click update (fixes a rare \u0027operation not permitted\u0027 when updating) and the AI model picker now only appears once you\u0027ve added an Anthropic key.",
     "date":  "2026-06-15",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
