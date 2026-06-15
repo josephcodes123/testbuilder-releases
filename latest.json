@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.17",
-    "notes":  "New Challenge difficulty tier (above Hard). Export now lets you choose which review states to share. Free trial no longer resets on reinstall.",
+    "version":  "1.0.18",
+    "notes":  "Four ready-made sample exams (one per subject) with multiple sections, plus sample seating rooms. New installs get the full guided demo.",
     "date":  "2026-06-15",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
