@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.21",
-    "notes":  "Sample exams now generate reliably: every starter bank has a Challenge-tier question pool, and the per-subject Sample Exams can produce the default 4 versions (multiple choice, short answer, free response, and a challenge section) with answer keys.",
+    "version":  "1.0.22",
+    "notes":  "Question banks now show the Challenge tier in the Active pool bar (with its own violet segment and count), and each generated version lists how many challenge questions it contains.",
     "date":  "2026-06-15",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
