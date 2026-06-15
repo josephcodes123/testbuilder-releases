@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.22",
-    "notes":  "Question banks now show the Challenge tier in the Active pool bar (with its own violet segment and count), and each generated version lists how many challenge questions it contains.",
+    "version":  "1.0.23",
+    "notes":  "The on-screen exam preview now respects each section question-type restriction, so a free-response or short-answer section previews those question types instead of multiple choice. The preview now matches the exported PDFs.",
     "date":  "2026-06-15",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
