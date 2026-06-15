@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.20",
-    "notes":  "Versions: a quick confirm now appears when you choose Completely different questions, so it is never selected by accident. Independent draws stays the recommended default. Plus build reliability improvements for the desktop app.",
+    "version":  "1.0.21",
+    "notes":  "Sample exams now generate reliably: every starter bank has a Challenge-tier question pool, and the per-subject Sample Exams can produce the default 4 versions (multiple choice, short answer, free response, and a challenge section) with answer keys.",
     "date":  "2026-06-15",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
