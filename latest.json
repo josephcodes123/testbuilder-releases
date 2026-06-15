@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.18",
-    "notes":  "Four ready-made sample exams (one per subject) with multiple sections, plus sample seating rooms. New installs get the full guided demo.",
+    "version":  "1.0.19",
+    "notes":  "Colorful Assessments page (matches Banks) with a dot per course an exam draws from. Every update button now installs in one click. Fixed a blank Sections tab when switching between the Sections and Template tabs.",
     "date":  "2026-06-15",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
