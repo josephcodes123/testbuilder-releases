@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.7",
-    "notes":  "v1.0.7 - Multi-format questions: adds fill-in-the-blank and short-answer question types alongside multiple choice and free response. Free-response parts can now carry their own figures. Question editor has a type switcher and per-type editors (insert-blank, answer lines); New question menu lets you pick a type. AI import, the answer key, printing, and .tbbank sharing all handle every type. Mr. Levy\u0027s Unit 1A bank now includes its free-response dotplot problem.",
+    "version":  "1.0.8",
+    "notes":  "v1.0.8 - Fixes PDF export (\u0027Chromium not installed\u0027 error) by launching the bundled headless-shell. Fixes algebra/math like $2x + 5 = 13$ that could render with a stray dollar sign (currency vs math detection improved). No question rewriting needed.",
     "date":  "2026-06-14",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
