@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.16",
-    "notes":  "Sample-bank answer keys no longer reference choice letters, which keeps them correct when versions are shuffled. Plus groundwork for required updates when needed.",
+    "version":  "1.0.17",
+    "notes":  "New Challenge difficulty tier (above Hard). Export now lets you choose which review states to share. Free trial no longer resets on reinstall.",
     "date":  "2026-06-15",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
