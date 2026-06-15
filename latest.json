@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.8",
-    "notes":  "v1.0.8 - Fixes PDF export (\u0027Chromium not installed\u0027 error) by launching the bundled headless-shell. Fixes algebra/math like $2x + 5 = 13$ that could render with a stray dollar sign (currency vs math detection improved). No question rewriting needed.",
+    "version":  "1.0.9",
+    "notes":  "v1.0.9 - Settings page now uses a two-column layout to cut scrolling. Includes the v1.0.8 fixes (PDF export, algebra/math rendering) and v1.0.7 multi-format question types (fill-in-the-blank, short answer, free response with figures).",
     "date":  "2026-06-14",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
