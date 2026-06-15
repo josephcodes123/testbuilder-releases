@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.9",
-    "notes":  "v1.0.9 - Settings page now uses a two-column layout to cut scrolling. Includes the v1.0.8 fixes (PDF export, algebra/math rendering) and v1.0.7 multi-format question types (fill-in-the-blank, short answer, free response with figures).",
+    "version":  "1.0.10",
+    "notes":  "v1.0.10 - PDF export reliability: launch the print engine with the sandbox disabled (safe for local headless rendering) so it works on Windows setups where it previously failed, and report the real error if it ever can\u0027t start.",
     "date":  "2026-06-14",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
