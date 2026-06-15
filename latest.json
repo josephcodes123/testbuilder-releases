@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.15",
-    "notes":  "The installed app now runs on its own port so it stays fully separate from a local dev setup. Internal: dev builds show a green icon/badge.",
+    "version":  "1.0.16",
+    "notes":  "Sample-bank answer keys no longer reference choice letters, which keeps them correct when versions are shuffled. Plus groundwork for required updates when needed.",
     "date":  "2026-06-15",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
