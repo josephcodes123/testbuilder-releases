@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.13",
-    "notes":  "v1.0.13 - More reliable one-click update (fixes a rare \u0027operation not permitted\u0027 when updating) and the AI model picker now only appears once you\u0027ve added an Anthropic key.",
+    "version":  "1.0.14",
+    "notes":  "Blank space (3 lines) is now the default answer area for short-answer and free-response questions. Eight sample banks expanded to 30+ vetted questions each. Cleaner written-response rendering.",
     "date":  "2026-06-15",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
