@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.11",
-    "notes":  "v1.0.11 - One-click in-app updates (downloads + launches the installer for you). Separate buy vs. gift checkout, personalized gift emails (from/to) with a \u0027Visit TestBuilder\u0027 link, and post-purchase pages. Removed the unused Backup button. License shows \u0027valid through\u0027.",
+    "version":  "1.0.12",
+    "notes":  "v1.0.12 - The in-app \u0027Gift to a teacher\u0027 button now opens the dedicated gift checkout (recipient + from/to). Includes all recent work: one-click in-app updates, multi-format questions, PDF + math fixes, and the two-column Settings.",
     "date":  "2026-06-15",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
