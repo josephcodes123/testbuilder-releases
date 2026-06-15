@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.23",
-    "notes":  "The on-screen exam preview now respects each section question-type restriction, so a free-response or short-answer section previews those question types instead of multiple choice. The preview now matches the exported PDFs.",
+    "version":  "1.0.24",
+    "notes":  "Free-response answer keys are more robust: questions show per-part rubric notes and/or an overall model answer, so imported packets and multi-part questions both print complete keys. Converting a short-answer question to free response no longer leaves a duplicate answer box.",
     "date":  "2026-06-15",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
