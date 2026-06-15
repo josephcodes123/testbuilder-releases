@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.10",
-    "notes":  "v1.0.10 - PDF export reliability: launch the print engine with the sandbox disabled (safe for local headless rendering) so it works on Windows setups where it previously failed, and report the real error if it ever can\u0027t start.",
-    "date":  "2026-06-14",
+    "version":  "1.0.11",
+    "notes":  "v1.0.11 - One-click in-app updates (downloads + launches the installer for you). Separate buy vs. gift checkout, personalized gift emails (from/to) with a \u0027Visit TestBuilder\u0027 link, and post-purchase pages. Removed the unused Backup button. License shows \u0027valid through\u0027.",
+    "date":  "2026-06-15",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
