@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.2.2",
-    "notes":  "Fixes AI variants on the free plan and removes the separate API-key step - AI is included, no key needed.",
+    "version":  "1.2.3",
+    "notes":  "Fixes AI import failing with a server error, and simplifies AI - no model picker needed.",
     "date":  "2026-06-16",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
