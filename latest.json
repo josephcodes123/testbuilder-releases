@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.1.0",
-    "notes":  "TestBuilder 1.1.0 - Isomorphic variant quizzes same test different numbers, plus answer-key LaTeX rendering, version-label placement, single-part FRQ cleanup, header title sync, and bank/variant UI fixes.",
+    "version":  "1.2.0",
+    "notes":  "Managed AI is here - use AI import and answer-finding without your own API key. Start free, or subscribe to Plus or Pro for higher monthly limits.",
     "date":  "2026-06-16",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
