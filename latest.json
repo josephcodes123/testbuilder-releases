@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.2.1",
-    "notes":  "TestBuilder is now free to use. AI features are included up to a monthly limit - subscribe to Plus or Pro for more. No license purchase needed.",
+    "version":  "1.2.2",
+    "notes":  "Fixes AI variants on the free plan and removes the separate API-key step - AI is included, no key needed.",
     "date":  "2026-06-16",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
