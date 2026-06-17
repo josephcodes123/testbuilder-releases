@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.2.8",
-    "notes":  "Heads-up before deleting a question that\u0027s used in an exam, so you can replace it instead of breaking a version.",
+    "version":  "1.2.9",
+    "notes":  "TestBuilder 1.2.9. See the app for what\u0027s new.",
     "date":  "2026-06-17",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
