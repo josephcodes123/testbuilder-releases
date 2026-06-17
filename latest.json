@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.2.3",
-    "notes":  "Fixes AI import failing with a server error, and simplifies AI - no model picker needed.",
+    "version":  "1.2.4",
+    "notes":  "Faster, simpler AI. Free plan now includes 150 AI requests plus 3 banks, 3 tests, and 50 questions per bank - upgrade anytime for unlimited.",
     "date":  "2026-06-16",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
