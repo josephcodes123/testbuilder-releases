@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.2.7",
-    "notes":  "AI-answer every unanswered question in one click, see estimated AI cost per teacher, and variant generation now answers the original too.",
+    "version":  "1.2.8",
+    "notes":  "Heads-up before deleting a question that\u0027s used in an exam, so you can replace it instead of breaking a version.",
     "date":  "2026-06-17",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
