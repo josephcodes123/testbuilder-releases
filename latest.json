@@ -1,6 +1,7 @@
 ﻿{
-    "version":  "1.2.11",
-    "notes":  "Version modes are now a visual card grid — color-coded, with smart toggles that show only what applies and a clear AI/Pro badge on each feature. Short answer and free response are unified into one flexible question type. Plus consistency and polish across the app.",
+    "version":  "1.2.12",
+    "notes":  "Smoother free sign-up with email verification, version-set label fixes, and behind-the-scenes security improvements.",
     "date":  "2026-06-18",
-    "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
+    "url":  "https://github.com/josephcodes123/testbuilder-releases/releases",
+    "critical":  true
 }
