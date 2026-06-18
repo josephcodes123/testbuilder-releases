@@ -1,7 +1,6 @@
 ﻿{
-    "version":  "1.2.12",
-    "notes":  "Smoother free sign-up with email verification, version-set label fixes, and behind-the-scenes security improvements.",
+    "version":  "1.2.13",
+    "notes":  "Imports no longer guess answers: questions without a source answer key now import flagged for you to fill, never with a wrong key.",
     "date":  "2026-06-18",
-    "url":  "https://github.com/josephcodes123/testbuilder-releases/releases",
-    "critical":  true
+    "url":  "https://github.com/josephcodes123/testbuilder-releases/releases"
 }
