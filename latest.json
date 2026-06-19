@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.2.15",
-    "notes":  "Free plan now includes 200 AI requests (up from 150), and variant generation is open on every eligible question for all tiers.",
+    "version":  "1.2.16",
+    "notes":  "Cheaper variant generation (batched verification), keyboard arrows to cycle variants, a new \u0027Entire bank\u0027 section draw, and FRQ parts never split across a page.",
     "date":  "2026-06-19",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases",
     "critical":  true
