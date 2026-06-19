@@ -1,3 +1,7 @@
 {
-  "url": "https://github.com/josephcodes123/testbuilder-releases/releases/latest/download/TestBuilder-arm64.zip"
+  "version": "1.2.18",
+  "notes": "Updated plan limits (Pro: 3,200 AI requests/mo), cheaper and more consistent variant generation, an 'Entire bank' section option, and assorted polish.",
+  "date": "2026-06-19",
+  "url": "https://github.com/josephcodes123/testbuilder-releases/releases/download/v1.2.18/TestBuilder-arm64.zip",
+  "dmg": "https://github.com/josephcodes123/testbuilder-releases/releases/download/v1.2.18/TestBuilder-arm64.dmg"
 }
