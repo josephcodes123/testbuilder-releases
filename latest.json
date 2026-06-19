@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.2.16",
-    "notes":  "Cheaper variant generation (batched verification), keyboard arrows to cycle variants, a new \u0027Entire bank\u0027 section draw, and FRQ parts never split across a page.",
+    "version":  "1.2.17",
+    "notes":  "More consistent imports (same source extracts the same way each time) and refined AI metering for variant generation.",
     "date":  "2026-06-19",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases",
     "critical":  true
