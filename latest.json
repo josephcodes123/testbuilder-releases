@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.2.14",
-    "notes":  "Two-column worksheet layouts, live import progress, AI-answer now covers free-response, faceted bank filters, and fixes to multi-part question labels.",
-    "date":  "2026-06-18",
+    "version":  "1.2.15",
+    "notes":  "Free plan now includes 200 AI requests (up from 150), and variant generation is open on every eligible question for all tiers.",
+    "date":  "2026-06-19",
     "url":  "https://github.com/josephcodes123/testbuilder-releases/releases",
     "critical":  true
 }
