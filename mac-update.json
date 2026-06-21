@@ -1,7 +1,7 @@
 {
   "version": "1.2.18",
-  "notes": "Updated plan limits (Pro: 3,200 AI requests/mo), cheaper and more consistent variant generation, an 'Entire bank' section option, and assorted polish.",
-  "date": "2026-06-19",
+  "notes": "TestBuilder 1.2.19 — Group questions that share a passage or figure into stimulus sets (printed once above them). Tidier multi-part question editor: jump between parts, side-by-side scroll, clearer response-area options. The difficulty pool now follows your filters, and sharing a bank (.tbbank) preserves question and choice order exactly. Worksheet-friendly onboarding.",
+  "date": "2026-06-21",
   "url": "https://github.com/josephcodes123/testbuilder-releases/releases/download/v1.2.18/TestBuilder-arm64.zip",
   "dmg": "https://github.com/josephcodes123/testbuilder-releases/releases/download/v1.2.18/TestBuilder-arm64.dmg"
 }
