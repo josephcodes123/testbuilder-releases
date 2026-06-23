@@ -1,7 +1,7 @@
 {
-  "version": "1.2.19",
-  "notes": "TestBuilder 1.2.19 — Group questions that share a passage or figure into stimulus sets (printed once above them). Tidier multi-part question editor: jump between parts, side-by-side scroll, clearer response-area options. The difficulty pool now follows your filters, and sharing a bank (.tbbank) preserves question and choice order exactly. Worksheet-friendly onboarding.",
-  "date": "2026-06-21",
-  "url": "https://github.com/josephcodes123/testbuilder-releases/releases/download/v1.2.19/TestBuilder-arm64.zip",
-  "dmg": "https://github.com/josephcodes123/testbuilder-releases/releases/download/v1.2.19/TestBuilder-arm64.dmg"
+  "version": "1.2.21",
+  "notes": "TestBuilder 1.2.21 — When a free bank hits its question limit, the app now clearly explains why (on the Add and Import buttons) and points to plan options. Plus admin/adoption improvements behind the scenes.",
+  "date": "2026-06-22",
+  "url": "https://github.com/josephcodes123/testbuilder-releases/releases/download/v1.2.21/TestBuilder-arm64.zip",
+  "dmg": "https://github.com/josephcodes123/testbuilder-releases/releases/download/v1.2.21/TestBuilder-arm64.dmg"
 }
